@@ -1,0 +1,30 @@
+/*Joan Poon Final project CSD 275 PHP
+June13 , 2018 */
+
+body {
+    font-family: 'Lobster', cursive;
+    width: 650px;
+    margin: 0 auto;
+    padding: 1em;
+    background: #f7fffe;
+    border: 5px solid lightskyblue;
+}
+h1 {
+    margin-top: 0;
+    color: navy;
+}
+p{
+    color:pink;
+}
+br {
+    clear: left;
+}
+.button1{
+    background-color: #008CBA;
+    font-family: 'Lobster', cursive;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    font-size: 16px;
+}
